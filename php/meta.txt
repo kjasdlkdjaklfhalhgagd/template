@@ -1,0 +1,3 @@
+<meta name="Keywords" content="sample1" lang="ja">
+		<meta name="Keywords" content="sample2" lang="ja">
+		<meta charset="UTF-8">

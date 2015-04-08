@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+body{
+	background-position: center;
+}
+#container{
+
+}
+#head{
+	height: 200px;
+	background-color: #ff0;
+}
+#head_left{
+	float: left;
+	width: 200px;
+	background-color: 000;
+}
+#head_right{
+	float: right;
+}
+#menubar{
+}
+
+#contents{
+	float: left;
+}
+.post{
+	background-color: #0ff;
+}
+
+#sidebar{
+	float: right;
+}
+.menu{
+	width: auto;
+	font-size: 0.75em;
+	background-color: #f0f;
+}
+
+
+#foot{
+	
+}
+#footer{
+	width: auto;
+	border-top: solid 5px #b8e964;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.clear{
+	clear: both;
+}
